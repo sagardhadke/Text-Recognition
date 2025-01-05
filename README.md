@@ -1,6 +1,3 @@
-
-
-
 <p align="center">
     <img src="https://github.com/user-attachments/assets/485149b7-d4c3-49b4-a27f-ae569259f88a"
         height="250">
@@ -47,7 +44,7 @@ Run the application
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/user-attachments/assets/cb564b3c-b3c9-4d04-a651-e6961826ca72)
 
 
 ## Features
